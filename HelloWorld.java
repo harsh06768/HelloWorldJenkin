@@ -1,4 +1,3 @@
-package harsh.helloworld;
 
 public class HelloWorld {
 
